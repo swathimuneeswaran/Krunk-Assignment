@@ -1,6 +1,9 @@
 I have replicated the given assignment from Krunk Company by using react js.
 
 Github url:https://github.com/swathimuneeswaran/Krunk-Assignment.git
+
+
+
 Netlify Deployed Url:https://replicated-page.netlify.app/
 
 The Output is:
